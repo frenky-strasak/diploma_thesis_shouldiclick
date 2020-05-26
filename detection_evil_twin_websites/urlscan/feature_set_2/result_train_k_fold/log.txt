@@ -1,0 +1,570 @@
+All data:(20070, 310)
+
+
+model name:xbboost
+xbboost
+K:1
+xbboostX_train_size:(18063, 310)
+xbboostX_test_size: (2007, 310)
+xbboostall_check: 20070
+xbboosttrain_positive_samples: 9032.0
+xbboosttrain_negative_samples: 9031.0
+xbboostall_check_train: 18063.0
+xbboosttest_positive_samples: 1003.0
+xbboosttest_negative_samples: 1004.0
+xbboostall_check_test: 2007.0
+xbboosttrain_acc: 0.9264795438188562
+xbboosttest_acc: 0.9133034379671151
+xbboostTN:901
+xbboostFP:103
+xbboostFN:71
+xbboostTP:932
+_test_acc: 0.9133034379671151
+False Positive Rate FPR: 0.10258964143426295
+False Discovery Rate FDR: 0.09951690821256039
+False Negative Rate FNR: 0.0707876370887338
+Sensitivity TPR: 0.9292123629112662
+Specificity SPC: 0.897410358565737
+Precision PPV: 0.9004830917874396
+Negative Predictive Value NPV: 0.926954732510288
+xbboost
+K:2
+xbboostX_train_size:(18063, 310)
+xbboostX_test_size: (2007, 310)
+xbboostall_check: 20070
+xbboosttrain_positive_samples: 9032.0
+xbboosttrain_negative_samples: 9031.0
+xbboostall_check_train: 18063.0
+xbboosttest_positive_samples: 1003.0
+xbboosttest_negative_samples: 1004.0
+xbboostall_check_test: 2007.0
+xbboosttrain_acc: 0.9273653324475447
+xbboosttest_acc: 0.9197807673143996
+xbboostTN:905
+xbboostFP:99
+xbboostFN:62
+xbboostTP:941
+_test_acc: 0.9197807673143996
+False Positive Rate FPR: 0.09860557768924302
+False Discovery Rate FDR: 0.09519230769230769
+False Negative Rate FNR: 0.06181455633100698
+Sensitivity TPR: 0.938185443668993
+Specificity SPC: 0.901394422310757
+Precision PPV: 0.9048076923076923
+Negative Predictive Value NPV: 0.9358841778697001
+xbboost
+K:3
+xbboostX_train_size:(18063, 310)
+xbboostX_test_size: (2007, 310)
+xbboostall_check: 20070
+xbboosttrain_positive_samples: 9032.0
+xbboosttrain_negative_samples: 9031.0
+xbboostall_check_train: 18063.0
+xbboosttest_positive_samples: 1003.0
+xbboosttest_negative_samples: 1004.0
+xbboostall_check_test: 2007.0
+xbboosttrain_acc: 0.9280296739190611
+xbboosttest_acc: 0.9098156452416543
+xbboostTN:901
+xbboostFP:103
+xbboostFN:78
+xbboostTP:925
+_test_acc: 0.9098156452416543
+False Positive Rate FPR: 0.10258964143426295
+False Discovery Rate FDR: 0.10019455252918288
+False Negative Rate FNR: 0.07776669990029911
+Sensitivity TPR: 0.922233300099701
+Specificity SPC: 0.897410358565737
+Precision PPV: 0.8998054474708171
+Negative Predictive Value NPV: 0.9203268641470889
+xbboost
+K:4
+xbboostX_train_size:(18063, 310)
+xbboostX_test_size: (2007, 310)
+xbboostall_check: 20070
+xbboosttrain_positive_samples: 9032.0
+xbboosttrain_negative_samples: 9031.0
+xbboostall_check_train: 18063.0
+xbboosttest_positive_samples: 1003.0
+xbboosttest_negative_samples: 1004.0
+xbboostall_check_test: 2007.0
+xbboosttrain_acc: 0.9265349056081492
+xbboosttest_acc: 0.9192825112107623
+xbboostTN:914
+xbboostFP:90
+xbboostFN:72
+xbboostTP:931
+_test_acc: 0.9192825112107623
+False Positive Rate FPR: 0.08964143426294821
+False Discovery Rate FDR: 0.0881488736532811
+False Negative Rate FNR: 0.07178464606181456
+Sensitivity TPR: 0.9282153539381854
+Specificity SPC: 0.9103585657370518
+Precision PPV: 0.9118511263467189
+Negative Predictive Value NPV: 0.9269776876267748
+xbboost
+K:5
+xbboostX_train_size:(18063, 310)
+xbboostX_test_size: (2007, 310)
+xbboostall_check: 20070
+xbboosttrain_positive_samples: 9032.0
+xbboosttrain_negative_samples: 9031.0
+xbboostall_check_train: 18063.0
+xbboosttest_positive_samples: 1003.0
+xbboosttest_negative_samples: 1004.0
+xbboostall_check_test: 2007.0
+xbboosttrain_acc: 0.9248186901400653
+xbboosttest_acc: 0.9247633283507724
+xbboostTN:918
+xbboostFP:86
+xbboostFN:65
+xbboostTP:938
+_test_acc: 0.9247633283507724
+False Positive Rate FPR: 0.08565737051792828
+False Discovery Rate FDR: 0.083984375
+False Negative Rate FNR: 0.06480558325024925
+Sensitivity TPR: 0.9351944167497508
+Specificity SPC: 0.9143426294820717
+Precision PPV: 0.916015625
+Negative Predictive Value NPV: 0.9338758901322483
+xbboost
+K:6
+xbboostX_train_size:(18063, 310)
+xbboostX_test_size: (2007, 310)
+xbboostall_check: 20070
+xbboosttrain_positive_samples: 9031.0
+xbboosttrain_negative_samples: 9032.0
+xbboostall_check_train: 18063.0
+xbboosttest_positive_samples: 1004.0
+xbboosttest_negative_samples: 1003.0
+xbboostall_check_test: 2007.0
+xbboosttrain_acc: 0.9267563527653214
+xbboosttest_acc: 0.924265072247135
+xbboostTN:907
+xbboostFP:96
+xbboostFN:56
+xbboostTP:948
+_test_acc: 0.924265072247135
+False Positive Rate FPR: 0.09571286141575275
+False Discovery Rate FDR: 0.09195402298850575
+False Negative Rate FNR: 0.055776892430278883
+Sensitivity TPR: 0.9442231075697212
+Specificity SPC: 0.9042871385842473
+Precision PPV: 0.9080459770114943
+Negative Predictive Value NPV: 0.9418483904465212
+xbboost
+K:7
+xbboostX_train_size:(18063, 310)
+xbboostX_test_size: (2007, 310)
+xbboostall_check: 20070
+xbboosttrain_positive_samples: 9031.0
+xbboosttrain_negative_samples: 9032.0
+xbboostall_check_train: 18063.0
+xbboosttest_positive_samples: 1004.0
+xbboosttest_negative_samples: 1003.0
+xbboostall_check_test: 2007.0
+xbboosttrain_acc: 0.9281403974976471
+xbboosttest_acc: 0.9103139013452914
+xbboostTN:915
+xbboostFP:88
+xbboostFN:92
+xbboostTP:912
+_test_acc: 0.9103139013452914
+False Positive Rate FPR: 0.08773678963110668
+False Discovery Rate FDR: 0.088
+False Negative Rate FNR: 0.09163346613545817
+Sensitivity TPR: 0.9083665338645418
+Specificity SPC: 0.9122632103688934
+Precision PPV: 0.912
+Negative Predictive Value NPV: 0.9086395233366436
+xbboost
+K:8
+xbboostX_train_size:(18063, 310)
+xbboostX_test_size: (2007, 310)
+xbboostall_check: 20070
+xbboosttrain_positive_samples: 9031.0
+xbboosttrain_negative_samples: 9032.0
+xbboostall_check_train: 18063.0
+xbboosttest_positive_samples: 1004.0
+xbboosttest_negative_samples: 1003.0
+xbboostall_check_test: 2007.0
+xbboosttrain_acc: 0.9277528649725959
+xbboosttest_acc: 0.922272047832586
+xbboostTN:915
+xbboostFP:88
+xbboostFN:68
+xbboostTP:936
+_test_acc: 0.922272047832586
+False Positive Rate FPR: 0.08773678963110668
+False Discovery Rate FDR: 0.0859375
+False Negative Rate FNR: 0.06772908366533864
+Sensitivity TPR: 0.9322709163346613
+Specificity SPC: 0.9122632103688934
+Precision PPV: 0.9140625
+Negative Predictive Value NPV: 0.930824008138352
+xbboost
+K:9
+xbboostX_train_size:(18063, 310)
+xbboostX_test_size: (2007, 310)
+xbboostall_check: 20070
+xbboosttrain_positive_samples: 9031.0
+xbboosttrain_negative_samples: 9032.0
+xbboostall_check_train: 18063.0
+xbboosttest_positive_samples: 1004.0
+xbboosttest_negative_samples: 1003.0
+xbboostall_check_test: 2007.0
+xbboosttrain_acc: 0.9263134584509771
+xbboosttest_acc: 0.9312406576980568
+xbboostTN:920
+xbboostFP:83
+xbboostFN:55
+xbboostTP:949
+_test_acc: 0.9312406576980568
+False Positive Rate FPR: 0.08275174476570289
+False Discovery Rate FDR: 0.08042635658914729
+False Negative Rate FNR: 0.054780876494023904
+Sensitivity TPR: 0.9452191235059761
+Specificity SPC: 0.9172482552342971
+Precision PPV: 0.9195736434108527
+Negative Predictive Value NPV: 0.9435897435897436
+xbboost
+K:10
+xbboostX_train_size:(18063, 310)
+xbboostX_test_size: (2007, 310)
+xbboostall_check: 20070
+xbboosttrain_positive_samples: 9031.0
+xbboosttrain_negative_samples: 9032.0
+xbboostall_check_train: 18063.0
+xbboosttest_positive_samples: 1004.0
+xbboosttest_negative_samples: 1003.0
+xbboostall_check_test: 2007.0
+xbboosttrain_acc: 0.9269224381332004
+xbboosttest_acc: 0.9142999501743896
+xbboostTN:904
+xbboostFP:99
+xbboostFN:73
+xbboostTP:931
+_test_acc: 0.9142999501743896
+False Positive Rate FPR: 0.09870388833499502
+False Discovery Rate FDR: 0.09611650485436893
+False Negative Rate FNR: 0.07270916334661355
+Sensitivity TPR: 0.9272908366533864
+Specificity SPC: 0.901296111665005
+Precision PPV: 0.903883495145631
+Negative Predictive Value NPV: 0.925281473899693
+
+
+model name:randomforest
+randomforest
+K:1
+randomforestX_train_size:(18063, 310)
+randomforestX_test_size: (2007, 310)
+randomforestall_check: 20070
+randomforesttrain_positive_samples: 9032.0
+randomforesttrain_negative_samples: 9031.0
+randomforestall_check_train: 18063.0
+randomforesttest_positive_samples: 1003.0
+randomforesttest_negative_samples: 1004.0
+randomforestall_check_test: 2007.0
+randomforesttrain_acc: 1.0
+randomforesttest_acc: 0.9362232187344295
+randomforestTN:928
+randomforestFP:76
+randomforestFN:52
+randomforestTP:951
+_test_acc: 0.9362232187344295
+False Positive Rate FPR: 0.07569721115537849
+False Discovery Rate FDR: 0.07400194741966894
+False Negative Rate FNR: 0.0518444666001994
+Sensitivity TPR: 0.9481555333998006
+Specificity SPC: 0.9243027888446215
+Precision PPV: 0.9259980525803311
+Negative Predictive Value NPV: 0.9469387755102041
+randomforest
+K:2
+randomforestX_train_size:(18063, 310)
+randomforestX_test_size: (2007, 310)
+randomforestall_check: 20070
+randomforesttrain_positive_samples: 9032.0
+randomforesttrain_negative_samples: 9031.0
+randomforestall_check_train: 18063.0
+randomforesttest_positive_samples: 1003.0
+randomforesttest_negative_samples: 1004.0
+randomforestall_check_test: 2007.0
+randomforesttrain_acc: 1.0
+randomforesttest_acc: 0.9322371699053313
+randomforestTN:926
+randomforestFP:78
+randomforestFN:58
+randomforestTP:945
+_test_acc: 0.9322371699053313
+False Positive Rate FPR: 0.07768924302788845
+False Discovery Rate FDR: 0.07624633431085044
+False Negative Rate FNR: 0.05782652043868395
+Sensitivity TPR: 0.942173479561316
+Specificity SPC: 0.9223107569721115
+Precision PPV: 0.9237536656891495
+Negative Predictive Value NPV: 0.9410569105691057
+randomforest
+K:3
+randomforestX_train_size:(18063, 310)
+randomforestX_test_size: (2007, 310)
+randomforestall_check: 20070
+randomforesttrain_positive_samples: 9032.0
+randomforesttrain_negative_samples: 9031.0
+randomforestall_check_train: 18063.0
+randomforesttest_positive_samples: 1003.0
+randomforesttest_negative_samples: 1004.0
+randomforestall_check_test: 2007.0
+randomforesttrain_acc: 1.0
+randomforesttest_acc: 0.9347284504235177
+randomforestTN:922
+randomforestFP:82
+randomforestFN:49
+randomforestTP:954
+_test_acc: 0.9347284504235177
+False Positive Rate FPR: 0.08167330677290836
+False Discovery Rate FDR: 0.07915057915057915
+False Negative Rate FNR: 0.04885343968095713
+Sensitivity TPR: 0.9511465603190429
+Specificity SPC: 0.9183266932270916
+Precision PPV: 0.9208494208494209
+Negative Predictive Value NPV: 0.9495365602471678
+randomforest
+K:4
+randomforestX_train_size:(18063, 310)
+randomforestX_test_size: (2007, 310)
+randomforestall_check: 20070
+randomforesttrain_positive_samples: 9032.0
+randomforesttrain_negative_samples: 9031.0
+randomforestall_check_train: 18063.0
+randomforesttest_positive_samples: 1003.0
+randomforesttest_negative_samples: 1004.0
+randomforestall_check_test: 2007.0
+randomforesttrain_acc: 1.0
+randomforesttest_acc: 0.9476831091180867
+randomforestTN:950
+randomforestFP:54
+randomforestFN:51
+randomforestTP:952
+_test_acc: 0.9476831091180867
+False Positive Rate FPR: 0.053784860557768925
+False Discovery Rate FDR: 0.0536779324055666
+False Negative Rate FNR: 0.05084745762711865
+Sensitivity TPR: 0.9491525423728814
+Specificity SPC: 0.9462151394422311
+Precision PPV: 0.9463220675944334
+Negative Predictive Value NPV: 0.949050949050949
+randomforest
+K:5
+randomforestX_train_size:(18063, 310)
+randomforestX_test_size: (2007, 310)
+randomforestall_check: 20070
+randomforesttrain_positive_samples: 9032.0
+randomforesttrain_negative_samples: 9031.0
+randomforestall_check_train: 18063.0
+randomforesttest_positive_samples: 1003.0
+randomforesttest_negative_samples: 1004.0
+randomforestall_check_test: 2007.0
+randomforesttrain_acc: 1.0
+randomforesttest_acc: 0.9347284504235177
+randomforestTN:939
+randomforestFP:65
+randomforestFN:66
+randomforestTP:937
+_test_acc: 0.9347284504235177
+False Positive Rate FPR: 0.0647410358565737
+False Discovery Rate FDR: 0.06487025948103792
+False Negative Rate FNR: 0.06580259222333001
+Sensitivity TPR: 0.93419740777667
+Specificity SPC: 0.9352589641434262
+Precision PPV: 0.935129740518962
+Negative Predictive Value NPV: 0.9343283582089552
+randomforest
+K:6
+randomforestX_train_size:(18063, 310)
+randomforestX_test_size: (2007, 310)
+randomforestall_check: 20070
+randomforesttrain_positive_samples: 9031.0
+randomforesttrain_negative_samples: 9032.0
+randomforestall_check_train: 18063.0
+randomforesttest_positive_samples: 1004.0
+randomforesttest_negative_samples: 1003.0
+randomforestall_check_test: 2007.0
+randomforesttrain_acc: 1.0
+randomforesttest_acc: 0.9407075236671649
+randomforestTN:935
+randomforestFP:68
+randomforestFN:51
+randomforestTP:953
+_test_acc: 0.9407075236671649
+False Positive Rate FPR: 0.06779661016949153
+False Discovery Rate FDR: 0.06660137120470128
+False Negative Rate FNR: 0.05079681274900399
+Sensitivity TPR: 0.9492031872509961
+Specificity SPC: 0.9322033898305084
+Precision PPV: 0.9333986287952988
+Negative Predictive Value NPV: 0.9482758620689655
+randomforest
+K:7
+randomforestX_train_size:(18063, 310)
+randomforestX_test_size: (2007, 310)
+randomforestall_check: 20070
+randomforesttrain_positive_samples: 9031.0
+randomforesttrain_negative_samples: 9032.0
+randomforestall_check_train: 18063.0
+randomforesttest_positive_samples: 1004.0
+randomforesttest_negative_samples: 1003.0
+randomforestall_check_test: 2007.0
+randomforesttrain_acc: 1.0
+randomforesttest_acc: 0.9257598405580468
+randomforestTN:934
+randomforestFP:69
+randomforestFN:80
+randomforestTP:924
+_test_acc: 0.9257598405580468
+False Positive Rate FPR: 0.06879361914257229
+False Discovery Rate FDR: 0.06948640483383686
+False Negative Rate FNR: 0.0796812749003984
+Sensitivity TPR: 0.9203187250996016
+Specificity SPC: 0.9312063808574277
+Precision PPV: 0.9305135951661632
+Negative Predictive Value NPV: 0.9211045364891519
+randomforest
+K:8
+randomforestX_train_size:(18063, 310)
+randomforestX_test_size: (2007, 310)
+randomforestall_check: 20070
+randomforesttrain_positive_samples: 9031.0
+randomforesttrain_negative_samples: 9032.0
+randomforestall_check_train: 18063.0
+randomforesttest_positive_samples: 1004.0
+randomforesttest_negative_samples: 1003.0
+randomforestall_check_test: 2007.0
+randomforesttrain_acc: 0.999944638210707
+randomforesttest_acc: 0.942700548081714
+randomforestTN:944
+randomforestFP:59
+randomforestFN:56
+randomforestTP:948
+_test_acc: 0.942700548081714
+False Positive Rate FPR: 0.058823529411764705
+False Discovery Rate FDR: 0.05858987090367428
+False Negative Rate FNR: 0.055776892430278883
+Sensitivity TPR: 0.9442231075697212
+Specificity SPC: 0.9411764705882353
+Precision PPV: 0.9414101290963257
+Negative Predictive Value NPV: 0.944
+randomforest
+K:9
+randomforestX_train_size:(18063, 310)
+randomforestX_test_size: (2007, 310)
+randomforestall_check: 20070
+randomforesttrain_positive_samples: 9031.0
+randomforesttrain_negative_samples: 9032.0
+randomforestall_check_train: 18063.0
+randomforesttest_positive_samples: 1004.0
+randomforesttest_negative_samples: 1003.0
+randomforestall_check_test: 2007.0
+randomforesttrain_acc: 1.0
+randomforesttest_acc: 0.9456900847035377
+randomforestTN:938
+randomforestFP:65
+randomforestFN:44
+randomforestTP:960
+_test_acc: 0.9456900847035377
+False Positive Rate FPR: 0.06480558325024925
+False Discovery Rate FDR: 0.06341463414634146
+False Negative Rate FNR: 0.043824701195219126
+Sensitivity TPR: 0.9561752988047809
+Specificity SPC: 0.9351944167497508
+Precision PPV: 0.9365853658536586
+Negative Predictive Value NPV: 0.955193482688391
+randomforest
+K:10
+randomforestX_train_size:(18063, 310)
+randomforestX_test_size: (2007, 310)
+randomforestall_check: 20070
+randomforesttrain_positive_samples: 9031.0
+randomforesttrain_negative_samples: 9032.0
+randomforestall_check_train: 18063.0
+randomforesttest_positive_samples: 1004.0
+randomforesttest_negative_samples: 1003.0
+randomforestall_check_test: 2007.0
+randomforesttrain_acc: 1.0
+randomforesttest_acc: 0.9332336821126059
+randomforestTN:921
+randomforestFP:82
+randomforestFN:52
+randomforestTP:952
+_test_acc: 0.9332336821126059
+False Positive Rate FPR: 0.08175473579262213
+False Discovery Rate FDR: 0.07930367504835589
+False Negative Rate FNR: 0.05179282868525897
+Sensitivity TPR: 0.9482071713147411
+Specificity SPC: 0.9182452642073778
+Precision PPV: 0.9206963249516441
+Negative Predictive Value NPV: 0.94655704008222
+xbboost
+randomforest
+
+
+
+FINAL RESULT:
+xbboost
+train_acc: 0.9269113657753418
+train_acc_std: 0.0009361873364968352
+test_acc: 0.9189337319382161
+test_acc_std: 0.006606545258254227
+TN: 910.0
+TN_std: 6.797058187186572
+TP: 934.3
+TP_std: 10.373523991392702
+FP: 93.5
+FP_std: 6.974955196988724
+FN: 69.2
+FN_std: 10.342146779078318
+FPR: 0.09317257391173094
+FPR_std: 0.006932277852174662
+FDR: 0.0909471401519354
+FDR_std: 0.006367829790968952
+FNR: 0.06895886047038167
+FNR_std: 0.010303847303893386
+TPR: 0.9310411395296183
+TPR_std: 0.010303847303893403
+SPC: 0.906827426088269
+SPC_std: 0.006932277852174662
+PPV: 0.9090528598480647
+PPV_std: 0.006367829790968955
+NPV: 0.9294202491697053
+NPV_std: 0.009810919808696394
+
+
+
+randomforest
+train_acc: 0.9999944638210707
+train_acc_std: 1.6608536787898755e-05
+test_acc: 0.9373692077727952
+test_acc_std: 0.006392647169011396
+TN: 933.7
+TN_std: 9.000555538409836
+TP: 947.6
+TP_std: 9.748846085563152
+FP: 69.8
+FP_std: 9.05317623820502
+FN: 55.9
+FN_std: 9.771898484941397
+FPR: 0.06955597351372177
+FPR_std: 0.009015787127841316
+FDR: 0.06853430089046128
+FDR_std: 0.008257951806141249
+FNR: 0.05570469865304485
+FNR_std: 0.009732981785720712
+TPR: 0.9442953013469552
+TPR_std: 0.00973298178572073
+SPC: 0.9304440264862782
+SPC_std: 0.009015787127841337
+PPV: 0.9314656991095388
+PPV_std: 0.008257951806141242
+NPV: 0.9436042474915111
+NPV_std: 0.00916382000873398

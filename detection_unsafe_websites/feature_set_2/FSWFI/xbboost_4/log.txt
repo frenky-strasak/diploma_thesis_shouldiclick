@@ -1,0 +1,16 @@
+####################
+model: xbboost,  K=4
+All data: 16310
+Positive:8155.0, Negative:8155.0
+train data ratio: positive: 6116.0, negative: 6116.0
+test data ratio: positive: 2039.0, negative: 2039.0
+train data ratio: positive: 6116.0, negative: 6116.0
+test data ratio: positive: 2039.0, negative: 2039.0
+train data ratio: positive: 6117.0, negative: 6116.0
+test data ratio: positive: 2038.0, negative: 2039.0
+train data ratio: positive: 6116.0, negative: 6117.0
+test data ratio: positive: 2039.0, negative: 2038.0
+Accuracy from all train data: 0.9936439836931239
+Accuracy from all test data: 0.9137337463970602
+best accuracy: 0.9163088386952345 was gained with: 0.0011828565548057668 threshold
+Duration: 21005.699229955673s

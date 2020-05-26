@@ -1,0 +1,288 @@
+All data:(20070, 310)
+
+
+model name:xgboost
+xgboost
+K:1
+xgboostX_train_size:(18063, 310)
+xgboostX_test_size: (2007, 310)
+xgboostall_check: 20070
+xgboosttrain_positive_samples: 9032.0
+xgboosttrain_negative_samples: 9031.0
+xgboostall_check_train: 18063.0
+xgboosttest_positive_samples: 1003.0
+xgboosttest_negative_samples: 1004.0
+xgboostall_check_test: 2007.0
+xgboosttrain_acc: 0.9998892764214139
+xgboosttest_acc: 0.9496761335326358
+xgboostTN:943
+xgboostFP:61
+xgboostFN:40
+xgboostTP:963
+_test_acc: 0.9496761335326358
+False Positive Rate FPR: 0.060756972111553786
+False Discovery Rate FDR: 0.0595703125
+False Negative Rate FNR: 0.03988035892323031
+Sensitivity TPR: 0.9601196410767697
+Specificity SPC: 0.9392430278884463
+Precision PPV: 0.9404296875
+Negative Predictive Value NPV: 0.9593082400813835
+xgboost
+K:2
+xgboostX_train_size:(18063, 310)
+xgboostX_test_size: (2007, 310)
+xgboostall_check: 20070
+xgboosttrain_positive_samples: 9032.0
+xgboosttrain_negative_samples: 9031.0
+xgboostall_check_train: 18063.0
+xgboosttest_positive_samples: 1003.0
+xgboosttest_negative_samples: 1004.0
+xgboostall_check_test: 2007.0
+xgboosttrain_acc: 0.9998339146321209
+xgboosttest_acc: 0.9501743896362731
+xgboostTN:941
+xgboostFP:63
+xgboostFN:37
+xgboostTP:966
+_test_acc: 0.9501743896362731
+False Positive Rate FPR: 0.06274900398406374
+False Discovery Rate FDR: 0.061224489795918366
+False Negative Rate FNR: 0.036889332003988036
+Sensitivity TPR: 0.963110667996012
+Specificity SPC: 0.9372509960159362
+Precision PPV: 0.9387755102040817
+Negative Predictive Value NPV: 0.9621676891615542
+xgboost
+K:3
+xgboostX_train_size:(18063, 310)
+xgboostX_test_size: (2007, 310)
+xgboostall_check: 20070
+xgboosttrain_positive_samples: 9032.0
+xgboosttrain_negative_samples: 9031.0
+xgboostall_check_train: 18063.0
+xgboosttest_positive_samples: 1003.0
+xgboosttest_negative_samples: 1004.0
+xgboostall_check_test: 2007.0
+xgboosttrain_acc: 0.9998892764214139
+xgboosttest_acc: 0.9347284504235177
+xgboostTN:921
+xgboostFP:83
+xgboostFN:48
+xgboostTP:955
+_test_acc: 0.9347284504235177
+False Positive Rate FPR: 0.08266932270916334
+False Discovery Rate FDR: 0.07996146435452794
+False Negative Rate FNR: 0.047856430707876374
+Sensitivity TPR: 0.9521435692921236
+Specificity SPC: 0.9173306772908366
+Precision PPV: 0.9200385356454721
+Negative Predictive Value NPV: 0.9504643962848297
+xgboost
+K:4
+xgboostX_train_size:(18063, 310)
+xgboostX_test_size: (2007, 310)
+xgboostall_check: 20070
+xgboosttrain_positive_samples: 9032.0
+xgboosttrain_negative_samples: 9031.0
+xgboostall_check_train: 18063.0
+xgboosttest_positive_samples: 1003.0
+xgboosttest_negative_samples: 1004.0
+xgboostall_check_test: 2007.0
+xgboosttrain_acc: 0.9998892764214139
+xgboosttest_acc: 0.9571499750871948
+xgboostTN:959
+xgboostFP:45
+xgboostFN:41
+xgboostTP:962
+_test_acc: 0.9571499750871948
+False Positive Rate FPR: 0.044820717131474105
+False Discovery Rate FDR: 0.044687189672293945
+False Negative Rate FNR: 0.040877367896311065
+Sensitivity TPR: 0.959122632103689
+Specificity SPC: 0.9551792828685259
+Precision PPV: 0.9553128103277061
+Negative Predictive Value NPV: 0.959
+xgboost
+K:5
+xgboostX_train_size:(18063, 310)
+xgboostX_test_size: (2007, 310)
+xgboostall_check: 20070
+xgboosttrain_positive_samples: 9032.0
+xgboosttrain_negative_samples: 9031.0
+xgboostall_check_train: 18063.0
+xgboosttest_positive_samples: 1003.0
+xgboosttest_negative_samples: 1004.0
+xgboostall_check_test: 2007.0
+xgboosttrain_acc: 0.9998339146321209
+xgboosttest_acc: 0.9471848530144494
+xgboostTN:950
+xgboostFP:54
+xgboostFN:52
+xgboostTP:951
+_test_acc: 0.9471848530144494
+False Positive Rate FPR: 0.053784860557768925
+False Discovery Rate FDR: 0.05373134328358209
+False Negative Rate FNR: 0.0518444666001994
+Sensitivity TPR: 0.9481555333998006
+Specificity SPC: 0.9462151394422311
+Precision PPV: 0.9462686567164179
+Negative Predictive Value NPV: 0.9481037924151696
+xgboost
+K:6
+xgboostX_train_size:(18063, 310)
+xgboostX_test_size: (2007, 310)
+xgboostall_check: 20070
+xgboosttrain_positive_samples: 9031.0
+xgboosttrain_negative_samples: 9032.0
+xgboostall_check_train: 18063.0
+xgboosttest_positive_samples: 1004.0
+xgboosttest_negative_samples: 1003.0
+xgboostall_check_test: 2007.0
+xgboosttrain_acc: 0.9998892764214139
+xgboosttest_acc: 0.955655206776283
+xgboostTN:951
+xgboostFP:52
+xgboostFN:37
+xgboostTP:967
+_test_acc: 0.955655206776283
+False Positive Rate FPR: 0.0518444666001994
+False Discovery Rate FDR: 0.05103042198233562
+False Negative Rate FNR: 0.036852589641434265
+Sensitivity TPR: 0.9631474103585658
+Specificity SPC: 0.9481555333998006
+Precision PPV: 0.9489695780176644
+Negative Predictive Value NPV: 0.9625506072874493
+xgboost
+K:7
+xgboostX_train_size:(18063, 310)
+xgboostX_test_size: (2007, 310)
+xgboostall_check: 20070
+xgboosttrain_positive_samples: 9031.0
+xgboosttrain_negative_samples: 9032.0
+xgboostall_check_train: 18063.0
+xgboosttest_positive_samples: 1004.0
+xgboosttest_negative_samples: 1003.0
+xgboostall_check_test: 2007.0
+xgboosttrain_acc: 0.9998892764214139
+xgboosttest_acc: 0.9362232187344295
+xgboostTN:938
+xgboostFP:65
+xgboostFN:63
+xgboostTP:941
+_test_acc: 0.9362232187344295
+False Positive Rate FPR: 0.06480558325024925
+False Discovery Rate FDR: 0.06461232604373758
+False Negative Rate FNR: 0.06274900398406374
+Sensitivity TPR: 0.9372509960159362
+Specificity SPC: 0.9351944167497508
+Precision PPV: 0.9353876739562624
+Negative Predictive Value NPV: 0.9370629370629371
+xgboost
+K:8
+xgboostX_train_size:(18063, 310)
+xgboostX_test_size: (2007, 310)
+xgboostall_check: 20070
+xgboosttrain_positive_samples: 9031.0
+xgboosttrain_negative_samples: 9032.0
+xgboostall_check_train: 18063.0
+xgboosttest_positive_samples: 1004.0
+xgboosttest_negative_samples: 1003.0
+xgboostall_check_test: 2007.0
+xgboosttrain_acc: 0.999944638210707
+xgboosttest_acc: 0.9506726457399103
+xgboostTN:955
+xgboostFP:48
+xgboostFN:51
+xgboostTP:953
+_test_acc: 0.9506726457399103
+False Positive Rate FPR: 0.047856430707876374
+False Discovery Rate FDR: 0.04795204795204795
+False Negative Rate FNR: 0.05079681274900399
+Sensitivity TPR: 0.9492031872509961
+Specificity SPC: 0.9521435692921236
+Precision PPV: 0.952047952047952
+Negative Predictive Value NPV: 0.9493041749502982
+xgboost
+K:9
+xgboostX_train_size:(18063, 310)
+xgboostX_test_size: (2007, 310)
+xgboostall_check: 20070
+xgboosttrain_positive_samples: 9031.0
+xgboosttrain_negative_samples: 9032.0
+xgboostall_check_train: 18063.0
+xgboosttest_positive_samples: 1004.0
+xgboosttest_negative_samples: 1003.0
+xgboostall_check_test: 2007.0
+xgboosttrain_acc: 0.9998892764214139
+xgboosttest_acc: 0.9561534628799203
+xgboostTN:949
+xgboostFP:54
+xgboostFN:34
+xgboostTP:970
+_test_acc: 0.9561534628799203
+False Positive Rate FPR: 0.053838484546360914
+False Discovery Rate FDR: 0.052734375
+False Negative Rate FNR: 0.03386454183266932
+Sensitivity TPR: 0.9661354581673307
+Specificity SPC: 0.9461615154536391
+Precision PPV: 0.947265625
+Negative Predictive Value NPV: 0.965412004069176
+xgboost
+K:10
+xgboostX_train_size:(18063, 310)
+xgboostX_test_size: (2007, 310)
+xgboostall_check: 20070
+xgboosttrain_positive_samples: 9031.0
+xgboosttrain_negative_samples: 9032.0
+xgboostall_check_train: 18063.0
+xgboosttest_positive_samples: 1004.0
+xgboosttest_negative_samples: 1003.0
+xgboostall_check_test: 2007.0
+xgboosttrain_acc: 0.9998892764214139
+xgboosttest_acc: 0.9511709018435476
+xgboostTN:946
+xgboostFP:57
+xgboostFN:41
+xgboostTP:963
+_test_acc: 0.9511709018435476
+False Positive Rate FPR: 0.05682951146560319
+False Discovery Rate FDR: 0.05588235294117647
+False Negative Rate FNR: 0.04083665338645418
+Sensitivity TPR: 0.9591633466135459
+Specificity SPC: 0.9431704885343968
+Precision PPV: 0.9441176470588235
+Negative Predictive Value NPV: 0.9584599797365755
+xgboost
+
+
+
+FINAL RESULT:
+xgboost
+mean_auc: 0.9851887082926037
+std_auc: 0.0024976737006562654
+train_acc: 0.9998837402424845
+train_acc_std: 2.981323593608638e-05
+test_acc: 0.9488789237668159
+test_acc_std: 0.007357338101158832
+TN: 945.3
+TN_std: 10.090094152187083
+TP: 959.1
+TP_std: 8.455175929571187
+FP: 58.2
+FP_std: 10.225458424931373
+FN: 44.4
+FN_std: 8.487638069569178
+FPR: 0.0579955353064313
+FPR_std: 0.010178295152828126
+FDR: 0.057138632352562
+FDR_std: 0.009532430900078536
+FNR: 0.04424475577252306
+FNR_std: 0.008453603351250305
+TPR: 0.9557552442274769
+TPR_std: 0.008453603351250323
+SPC: 0.9420044646935688
+SPC_std: 0.010178295152828145
+PPV: 0.9428613676474379
+PPV_std: 0.009532430900078518
+NPV: 0.9551833821049375
+NPV_std: 0.008278305378480715

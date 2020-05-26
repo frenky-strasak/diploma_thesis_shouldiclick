@@ -1,0 +1,16 @@
+####################
+model: randomforest,  K=4
+All data: 16310
+Positive:8155.0, Negative:8155.0
+train data ratio: positive: 6116.0, negative: 6116.0
+test data ratio: positive: 2039.0, negative: 2039.0
+train data ratio: positive: 6116.0, negative: 6116.0
+test data ratio: positive: 2039.0, negative: 2039.0
+train data ratio: positive: 6117.0, negative: 6116.0
+test data ratio: positive: 2038.0, negative: 2039.0
+train data ratio: positive: 6116.0, negative: 6117.0
+test data ratio: positive: 2039.0, negative: 2038.0
+Accuracy from all train data: 0.9969139562052639
+Accuracy from all test data: 0.8996934531360087
+best accuracy: 0.9034335125345198 was gained with: 0.0005151635889276919 threshold
+Duration: 10896.073358535767s

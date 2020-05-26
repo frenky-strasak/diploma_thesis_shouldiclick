@@ -1,0 +1,10 @@
+####################
+model: randomforest,  K=1
+All data: 20070
+Positive:10035.0, Negative:10035.0
+train data ratio: positive: 8028.0, negative: 8028.0
+test data ratio: positive: 2007.0, negative: 2007.0
+Accuracy from all train data: 1.0
+Accuracy from all test data: 0.9387144992526159
+best accuracy: 0.9397110114598903 was gained with: 0.002104717542624327 threshold
+Duration: 4027.422645330429s

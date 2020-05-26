@@ -1,0 +1,23 @@
+random_forestX_train_size:(16310, 147)
+random_forestX_test_size: (4078, 147)
+random_forestall_check: 20388
+random_foresttrain_positive_samples: 8155.0
+random_foresttrain_negative_samples: 8155.0
+random_forestall_check_train: 16310.0
+random_foresttest_positive_samples: 2039.0
+random_foresttest_negative_samples: 2039.0
+random_forestall_check_test: 4078.0
+random_foresttrain_acc: 0.996934396076027
+random_foresttest_acc: 0.9024031387935263
+random_forestTN:1884
+random_forestFP:155
+random_forestFN:243
+random_forestTP:1796
+_test_acc: 0.9024031387935263
+False Positive Rate FPR: 0.0760176557135851
+False Discovery Rate FDR: 0.07944643772424398
+False Negative Rate FNR: 0.11917606669936243
+Sensitivity TPR: 0.8808239333006376
+Specificity SPC: 0.9239823442864149
+Precision PPV: 0.920553562275756
+Negative Predictive Value NPV: 0.8857545839210155

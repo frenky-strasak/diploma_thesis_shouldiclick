@@ -1,0 +1,1248 @@
+All data:(20070, 310)
+
+
+RANDOM FOREST TUNNING:
+1
+   K:0
+   X_train_size:(18063, 310)
+   X_test_size: (2007, 310)
+   all_check: 20070
+   train_positive_samples: 9031.0
+   train_negative_samples: 9032.0
+   all_check_train: 18063.0
+   test_positive_samples: 1004.0
+   test_negative_samples: 1003.0
+   all_check_test: 2007.0
+   K:1
+   X_train_size:(18063, 310)
+   X_test_size: (2007, 310)
+   all_check: 20070
+   train_positive_samples: 9031.0
+   train_negative_samples: 9032.0
+   all_check_train: 18063.0
+   test_positive_samples: 1004.0
+   test_negative_samples: 1003.0
+   all_check_test: 2007.0
+   K:2
+   X_train_size:(18063, 310)
+   X_test_size: (2007, 310)
+   all_check: 20070
+   train_positive_samples: 9031.0
+   train_negative_samples: 9032.0
+   all_check_train: 18063.0
+   test_positive_samples: 1004.0
+   test_negative_samples: 1003.0
+   all_check_test: 2007.0
+   K:3
+   X_train_size:(18063, 310)
+   X_test_size: (2007, 310)
+   all_check: 20070
+   train_positive_samples: 9031.0
+   train_negative_samples: 9032.0
+   all_check_train: 18063.0
+   test_positive_samples: 1004.0
+   test_negative_samples: 1003.0
+   all_check_test: 2007.0
+   K:4
+   X_train_size:(18063, 310)
+   X_test_size: (2007, 310)
+   all_check: 20070
+   train_positive_samples: 9031.0
+   train_negative_samples: 9032.0
+   all_check_train: 18063.0
+   test_positive_samples: 1004.0
+   test_negative_samples: 1003.0
+   all_check_test: 2007.0
+   K:5
+   X_train_size:(18063, 310)
+   X_test_size: (2007, 310)
+   all_check: 20070
+   train_positive_samples: 9032.0
+   train_negative_samples: 9031.0
+   all_check_train: 18063.0
+   test_positive_samples: 1003.0
+   test_negative_samples: 1004.0
+   all_check_test: 2007.0
+   K:6
+   X_train_size:(18063, 310)
+   X_test_size: (2007, 310)
+   all_check: 20070
+   train_positive_samples: 9032.0
+   train_negative_samples: 9031.0
+   all_check_train: 18063.0
+   test_positive_samples: 1003.0
+   test_negative_samples: 1004.0
+   all_check_test: 2007.0
+   K:7
+   X_train_size:(18063, 310)
+   X_test_size: (2007, 310)
+   all_check: 20070
+   train_positive_samples: 9032.0
+   train_negative_samples: 9031.0
+   all_check_train: 18063.0
+   test_positive_samples: 1003.0
+   test_negative_samples: 1004.0
+   all_check_test: 2007.0
+   K:8
+   X_train_size:(18063, 310)
+   X_test_size: (2007, 310)
+   all_check: 20070
+   train_positive_samples: 9032.0
+   train_negative_samples: 9031.0
+   all_check_train: 18063.0
+   test_positive_samples: 1003.0
+   test_negative_samples: 1004.0
+   all_check_test: 2007.0
+   K:9
+   X_train_size:(18063, 310)
+   X_test_size: (2007, 310)
+   all_check: 20070
+   train_positive_samples: 9032.0
+   train_negative_samples: 9031.0
+   all_check_train: 18063.0
+   test_positive_samples: 1003.0
+   test_negative_samples: 1004.0
+   all_check_test: 2007.0
+RF: PARAM: n_estimators:100, max_depth:None, min_samples_leaf: 1
+RF: Result: train_acc: 1.0, test_acc: 0.937219730941704
+2
+   K:0
+   X_train_size:(18063, 310)
+   X_test_size: (2007, 310)
+   all_check: 20070
+   train_positive_samples: 9031.0
+   train_negative_samples: 9032.0
+   all_check_train: 18063.0
+   test_positive_samples: 1004.0
+   test_negative_samples: 1003.0
+   all_check_test: 2007.0
+   K:1
+   X_train_size:(18063, 310)
+   X_test_size: (2007, 310)
+   all_check: 20070
+   train_positive_samples: 9031.0
+   train_negative_samples: 9032.0
+   all_check_train: 18063.0
+   test_positive_samples: 1004.0
+   test_negative_samples: 1003.0
+   all_check_test: 2007.0
+   K:2
+   X_train_size:(18063, 310)
+   X_test_size: (2007, 310)
+   all_check: 20070
+   train_positive_samples: 9031.0
+   train_negative_samples: 9032.0
+   all_check_train: 18063.0
+   test_positive_samples: 1004.0
+   test_negative_samples: 1003.0
+   all_check_test: 2007.0
+   K:3
+   X_train_size:(18063, 310)
+   X_test_size: (2007, 310)
+   all_check: 20070
+   train_positive_samples: 9031.0
+   train_negative_samples: 9032.0
+   all_check_train: 18063.0
+   test_positive_samples: 1004.0
+   test_negative_samples: 1003.0
+   all_check_test: 2007.0
+   K:4
+   X_train_size:(18063, 310)
+   X_test_size: (2007, 310)
+   all_check: 20070
+   train_positive_samples: 9031.0
+   train_negative_samples: 9032.0
+   all_check_train: 18063.0
+   test_positive_samples: 1004.0
+   test_negative_samples: 1003.0
+   all_check_test: 2007.0
+   K:5
+   X_train_size:(18063, 310)
+   X_test_size: (2007, 310)
+   all_check: 20070
+   train_positive_samples: 9032.0
+   train_negative_samples: 9031.0
+   all_check_train: 18063.0
+   test_positive_samples: 1003.0
+   test_negative_samples: 1004.0
+   all_check_test: 2007.0
+   K:6
+   X_train_size:(18063, 310)
+   X_test_size: (2007, 310)
+   all_check: 20070
+   train_positive_samples: 9032.0
+   train_negative_samples: 9031.0
+   all_check_train: 18063.0
+   test_positive_samples: 1003.0
+   test_negative_samples: 1004.0
+   all_check_test: 2007.0
+   K:7
+   X_train_size:(18063, 310)
+   X_test_size: (2007, 310)
+   all_check: 20070
+   train_positive_samples: 9032.0
+   train_negative_samples: 9031.0
+   all_check_train: 18063.0
+   test_positive_samples: 1003.0
+   test_negative_samples: 1004.0
+   all_check_test: 2007.0
+   K:8
+   X_train_size:(18063, 310)
+   X_test_size: (2007, 310)
+   all_check: 20070
+   train_positive_samples: 9032.0
+   train_negative_samples: 9031.0
+   all_check_train: 18063.0
+   test_positive_samples: 1003.0
+   test_negative_samples: 1004.0
+   all_check_test: 2007.0
+   K:9
+   X_train_size:(18063, 310)
+   X_test_size: (2007, 310)
+   all_check: 20070
+   train_positive_samples: 9032.0
+   train_negative_samples: 9031.0
+   all_check_train: 18063.0
+   test_positive_samples: 1003.0
+   test_negative_samples: 1004.0
+   all_check_test: 2007.0
+RF: PARAM: n_estimators:100, max_depth:None, min_samples_leaf: 10
+RF: Result: train_acc: 0.9521674140508221, test_acc: 0.9229197807673144
+3
+   K:0
+   X_train_size:(18063, 310)
+   X_test_size: (2007, 310)
+   all_check: 20070
+   train_positive_samples: 9031.0
+   train_negative_samples: 9032.0
+   all_check_train: 18063.0
+   test_positive_samples: 1004.0
+   test_negative_samples: 1003.0
+   all_check_test: 2007.0
+   K:1
+   X_train_size:(18063, 310)
+   X_test_size: (2007, 310)
+   all_check: 20070
+   train_positive_samples: 9031.0
+   train_negative_samples: 9032.0
+   all_check_train: 18063.0
+   test_positive_samples: 1004.0
+   test_negative_samples: 1003.0
+   all_check_test: 2007.0
+   K:2
+   X_train_size:(18063, 310)
+   X_test_size: (2007, 310)
+   all_check: 20070
+   train_positive_samples: 9031.0
+   train_negative_samples: 9032.0
+   all_check_train: 18063.0
+   test_positive_samples: 1004.0
+   test_negative_samples: 1003.0
+   all_check_test: 2007.0
+   K:3
+   X_train_size:(18063, 310)
+   X_test_size: (2007, 310)
+   all_check: 20070
+   train_positive_samples: 9031.0
+   train_negative_samples: 9032.0
+   all_check_train: 18063.0
+   test_positive_samples: 1004.0
+   test_negative_samples: 1003.0
+   all_check_test: 2007.0
+   K:4
+   X_train_size:(18063, 310)
+   X_test_size: (2007, 310)
+   all_check: 20070
+   train_positive_samples: 9031.0
+   train_negative_samples: 9032.0
+   all_check_train: 18063.0
+   test_positive_samples: 1004.0
+   test_negative_samples: 1003.0
+   all_check_test: 2007.0
+   K:5
+   X_train_size:(18063, 310)
+   X_test_size: (2007, 310)
+   all_check: 20070
+   train_positive_samples: 9032.0
+   train_negative_samples: 9031.0
+   all_check_train: 18063.0
+   test_positive_samples: 1003.0
+   test_negative_samples: 1004.0
+   all_check_test: 2007.0
+   K:6
+   X_train_size:(18063, 310)
+   X_test_size: (2007, 310)
+   all_check: 20070
+   train_positive_samples: 9032.0
+   train_negative_samples: 9031.0
+   all_check_train: 18063.0
+   test_positive_samples: 1003.0
+   test_negative_samples: 1004.0
+   all_check_test: 2007.0
+   K:7
+   X_train_size:(18063, 310)
+   X_test_size: (2007, 310)
+   all_check: 20070
+   train_positive_samples: 9032.0
+   train_negative_samples: 9031.0
+   all_check_train: 18063.0
+   test_positive_samples: 1003.0
+   test_negative_samples: 1004.0
+   all_check_test: 2007.0
+   K:8
+   X_train_size:(18063, 310)
+   X_test_size: (2007, 310)
+   all_check: 20070
+   train_positive_samples: 9032.0
+   train_negative_samples: 9031.0
+   all_check_train: 18063.0
+   test_positive_samples: 1003.0
+   test_negative_samples: 1004.0
+   all_check_test: 2007.0
+   K:9
+   X_train_size:(18063, 310)
+   X_test_size: (2007, 310)
+   all_check: 20070
+   train_positive_samples: 9032.0
+   train_negative_samples: 9031.0
+   all_check_train: 18063.0
+   test_positive_samples: 1003.0
+   test_negative_samples: 1004.0
+   all_check_test: 2007.0
+RF: PARAM: n_estimators:100, max_depth:50, min_samples_leaf: 1
+RF: Result: train_acc: 1.0, test_acc: 0.937219730941704
+4
+   K:0
+   X_train_size:(18063, 310)
+   X_test_size: (2007, 310)
+   all_check: 20070
+   train_positive_samples: 9031.0
+   train_negative_samples: 9032.0
+   all_check_train: 18063.0
+   test_positive_samples: 1004.0
+   test_negative_samples: 1003.0
+   all_check_test: 2007.0
+   K:1
+   X_train_size:(18063, 310)
+   X_test_size: (2007, 310)
+   all_check: 20070
+   train_positive_samples: 9031.0
+   train_negative_samples: 9032.0
+   all_check_train: 18063.0
+   test_positive_samples: 1004.0
+   test_negative_samples: 1003.0
+   all_check_test: 2007.0
+   K:2
+   X_train_size:(18063, 310)
+   X_test_size: (2007, 310)
+   all_check: 20070
+   train_positive_samples: 9031.0
+   train_negative_samples: 9032.0
+   all_check_train: 18063.0
+   test_positive_samples: 1004.0
+   test_negative_samples: 1003.0
+   all_check_test: 2007.0
+   K:3
+   X_train_size:(18063, 310)
+   X_test_size: (2007, 310)
+   all_check: 20070
+   train_positive_samples: 9031.0
+   train_negative_samples: 9032.0
+   all_check_train: 18063.0
+   test_positive_samples: 1004.0
+   test_negative_samples: 1003.0
+   all_check_test: 2007.0
+   K:4
+   X_train_size:(18063, 310)
+   X_test_size: (2007, 310)
+   all_check: 20070
+   train_positive_samples: 9031.0
+   train_negative_samples: 9032.0
+   all_check_train: 18063.0
+   test_positive_samples: 1004.0
+   test_negative_samples: 1003.0
+   all_check_test: 2007.0
+   K:5
+   X_train_size:(18063, 310)
+   X_test_size: (2007, 310)
+   all_check: 20070
+   train_positive_samples: 9032.0
+   train_negative_samples: 9031.0
+   all_check_train: 18063.0
+   test_positive_samples: 1003.0
+   test_negative_samples: 1004.0
+   all_check_test: 2007.0
+   K:6
+   X_train_size:(18063, 310)
+   X_test_size: (2007, 310)
+   all_check: 20070
+   train_positive_samples: 9032.0
+   train_negative_samples: 9031.0
+   all_check_train: 18063.0
+   test_positive_samples: 1003.0
+   test_negative_samples: 1004.0
+   all_check_test: 2007.0
+   K:7
+   X_train_size:(18063, 310)
+   X_test_size: (2007, 310)
+   all_check: 20070
+   train_positive_samples: 9032.0
+   train_negative_samples: 9031.0
+   all_check_train: 18063.0
+   test_positive_samples: 1003.0
+   test_negative_samples: 1004.0
+   all_check_test: 2007.0
+   K:8
+   X_train_size:(18063, 310)
+   X_test_size: (2007, 310)
+   all_check: 20070
+   train_positive_samples: 9032.0
+   train_negative_samples: 9031.0
+   all_check_train: 18063.0
+   test_positive_samples: 1003.0
+   test_negative_samples: 1004.0
+   all_check_test: 2007.0
+   K:9
+   X_train_size:(18063, 310)
+   X_test_size: (2007, 310)
+   all_check: 20070
+   train_positive_samples: 9032.0
+   train_negative_samples: 9031.0
+   all_check_train: 18063.0
+   test_positive_samples: 1003.0
+   test_negative_samples: 1004.0
+   all_check_test: 2007.0
+RF: PARAM: n_estimators:100, max_depth:50, min_samples_leaf: 10
+RF: Result: train_acc: 0.952222775840115, test_acc: 0.9232187344294968
+5
+   K:0
+   X_train_size:(18063, 310)
+   X_test_size: (2007, 310)
+   all_check: 20070
+   train_positive_samples: 9031.0
+   train_negative_samples: 9032.0
+   all_check_train: 18063.0
+   test_positive_samples: 1004.0
+   test_negative_samples: 1003.0
+   all_check_test: 2007.0
+   K:1
+   X_train_size:(18063, 310)
+   X_test_size: (2007, 310)
+   all_check: 20070
+   train_positive_samples: 9031.0
+   train_negative_samples: 9032.0
+   all_check_train: 18063.0
+   test_positive_samples: 1004.0
+   test_negative_samples: 1003.0
+   all_check_test: 2007.0
+   K:2
+   X_train_size:(18063, 310)
+   X_test_size: (2007, 310)
+   all_check: 20070
+   train_positive_samples: 9031.0
+   train_negative_samples: 9032.0
+   all_check_train: 18063.0
+   test_positive_samples: 1004.0
+   test_negative_samples: 1003.0
+   all_check_test: 2007.0
+   K:3
+   X_train_size:(18063, 310)
+   X_test_size: (2007, 310)
+   all_check: 20070
+   train_positive_samples: 9031.0
+   train_negative_samples: 9032.0
+   all_check_train: 18063.0
+   test_positive_samples: 1004.0
+   test_negative_samples: 1003.0
+   all_check_test: 2007.0
+   K:4
+   X_train_size:(18063, 310)
+   X_test_size: (2007, 310)
+   all_check: 20070
+   train_positive_samples: 9031.0
+   train_negative_samples: 9032.0
+   all_check_train: 18063.0
+   test_positive_samples: 1004.0
+   test_negative_samples: 1003.0
+   all_check_test: 2007.0
+   K:5
+   X_train_size:(18063, 310)
+   X_test_size: (2007, 310)
+   all_check: 20070
+   train_positive_samples: 9032.0
+   train_negative_samples: 9031.0
+   all_check_train: 18063.0
+   test_positive_samples: 1003.0
+   test_negative_samples: 1004.0
+   all_check_test: 2007.0
+   K:6
+   X_train_size:(18063, 310)
+   X_test_size: (2007, 310)
+   all_check: 20070
+   train_positive_samples: 9032.0
+   train_negative_samples: 9031.0
+   all_check_train: 18063.0
+   test_positive_samples: 1003.0
+   test_negative_samples: 1004.0
+   all_check_test: 2007.0
+   K:7
+   X_train_size:(18063, 310)
+   X_test_size: (2007, 310)
+   all_check: 20070
+   train_positive_samples: 9032.0
+   train_negative_samples: 9031.0
+   all_check_train: 18063.0
+   test_positive_samples: 1003.0
+   test_negative_samples: 1004.0
+   all_check_test: 2007.0
+   K:8
+   X_train_size:(18063, 310)
+   X_test_size: (2007, 310)
+   all_check: 20070
+   train_positive_samples: 9032.0
+   train_negative_samples: 9031.0
+   all_check_train: 18063.0
+   test_positive_samples: 1003.0
+   test_negative_samples: 1004.0
+   all_check_test: 2007.0
+   K:9
+   X_train_size:(18063, 310)
+   X_test_size: (2007, 310)
+   all_check: 20070
+   train_positive_samples: 9032.0
+   train_negative_samples: 9031.0
+   all_check_train: 18063.0
+   test_positive_samples: 1003.0
+   test_negative_samples: 1004.0
+   all_check_test: 2007.0
+RF: PARAM: n_estimators:100, max_depth:100, min_samples_leaf: 1
+RF: Result: train_acc: 0.9999944638210707, test_acc: 0.9369706028898855
+6
+   K:0
+   X_train_size:(18063, 310)
+   X_test_size: (2007, 310)
+   all_check: 20070
+   train_positive_samples: 9031.0
+   train_negative_samples: 9032.0
+   all_check_train: 18063.0
+   test_positive_samples: 1004.0
+   test_negative_samples: 1003.0
+   all_check_test: 2007.0
+   K:1
+   X_train_size:(18063, 310)
+   X_test_size: (2007, 310)
+   all_check: 20070
+   train_positive_samples: 9031.0
+   train_negative_samples: 9032.0
+   all_check_train: 18063.0
+   test_positive_samples: 1004.0
+   test_negative_samples: 1003.0
+   all_check_test: 2007.0
+   K:2
+   X_train_size:(18063, 310)
+   X_test_size: (2007, 310)
+   all_check: 20070
+   train_positive_samples: 9031.0
+   train_negative_samples: 9032.0
+   all_check_train: 18063.0
+   test_positive_samples: 1004.0
+   test_negative_samples: 1003.0
+   all_check_test: 2007.0
+   K:3
+   X_train_size:(18063, 310)
+   X_test_size: (2007, 310)
+   all_check: 20070
+   train_positive_samples: 9031.0
+   train_negative_samples: 9032.0
+   all_check_train: 18063.0
+   test_positive_samples: 1004.0
+   test_negative_samples: 1003.0
+   all_check_test: 2007.0
+   K:4
+   X_train_size:(18063, 310)
+   X_test_size: (2007, 310)
+   all_check: 20070
+   train_positive_samples: 9031.0
+   train_negative_samples: 9032.0
+   all_check_train: 18063.0
+   test_positive_samples: 1004.0
+   test_negative_samples: 1003.0
+   all_check_test: 2007.0
+   K:5
+   X_train_size:(18063, 310)
+   X_test_size: (2007, 310)
+   all_check: 20070
+   train_positive_samples: 9032.0
+   train_negative_samples: 9031.0
+   all_check_train: 18063.0
+   test_positive_samples: 1003.0
+   test_negative_samples: 1004.0
+   all_check_test: 2007.0
+   K:6
+   X_train_size:(18063, 310)
+   X_test_size: (2007, 310)
+   all_check: 20070
+   train_positive_samples: 9032.0
+   train_negative_samples: 9031.0
+   all_check_train: 18063.0
+   test_positive_samples: 1003.0
+   test_negative_samples: 1004.0
+   all_check_test: 2007.0
+   K:7
+   X_train_size:(18063, 310)
+   X_test_size: (2007, 310)
+   all_check: 20070
+   train_positive_samples: 9032.0
+   train_negative_samples: 9031.0
+   all_check_train: 18063.0
+   test_positive_samples: 1003.0
+   test_negative_samples: 1004.0
+   all_check_test: 2007.0
+   K:8
+   X_train_size:(18063, 310)
+   X_test_size: (2007, 310)
+   all_check: 20070
+   train_positive_samples: 9032.0
+   train_negative_samples: 9031.0
+   all_check_train: 18063.0
+   test_positive_samples: 1003.0
+   test_negative_samples: 1004.0
+   all_check_test: 2007.0
+   K:9
+   X_train_size:(18063, 310)
+   X_test_size: (2007, 310)
+   all_check: 20070
+   train_positive_samples: 9032.0
+   train_negative_samples: 9031.0
+   all_check_train: 18063.0
+   test_positive_samples: 1003.0
+   test_negative_samples: 1004.0
+   all_check_test: 2007.0
+RF: PARAM: n_estimators:100, max_depth:100, min_samples_leaf: 10
+RF: Result: train_acc: 0.9528262193434092, test_acc: 0.9228201295465869
+7
+   K:0
+   X_train_size:(18063, 310)
+   X_test_size: (2007, 310)
+   all_check: 20070
+   train_positive_samples: 9031.0
+   train_negative_samples: 9032.0
+   all_check_train: 18063.0
+   test_positive_samples: 1004.0
+   test_negative_samples: 1003.0
+   all_check_test: 2007.0
+   K:1
+   X_train_size:(18063, 310)
+   X_test_size: (2007, 310)
+   all_check: 20070
+   train_positive_samples: 9031.0
+   train_negative_samples: 9032.0
+   all_check_train: 18063.0
+   test_positive_samples: 1004.0
+   test_negative_samples: 1003.0
+   all_check_test: 2007.0
+   K:2
+   X_train_size:(18063, 310)
+   X_test_size: (2007, 310)
+   all_check: 20070
+   train_positive_samples: 9031.0
+   train_negative_samples: 9032.0
+   all_check_train: 18063.0
+   test_positive_samples: 1004.0
+   test_negative_samples: 1003.0
+   all_check_test: 2007.0
+   K:3
+   X_train_size:(18063, 310)
+   X_test_size: (2007, 310)
+   all_check: 20070
+   train_positive_samples: 9031.0
+   train_negative_samples: 9032.0
+   all_check_train: 18063.0
+   test_positive_samples: 1004.0
+   test_negative_samples: 1003.0
+   all_check_test: 2007.0
+   K:4
+   X_train_size:(18063, 310)
+   X_test_size: (2007, 310)
+   all_check: 20070
+   train_positive_samples: 9031.0
+   train_negative_samples: 9032.0
+   all_check_train: 18063.0
+   test_positive_samples: 1004.0
+   test_negative_samples: 1003.0
+   all_check_test: 2007.0
+   K:5
+   X_train_size:(18063, 310)
+   X_test_size: (2007, 310)
+   all_check: 20070
+   train_positive_samples: 9032.0
+   train_negative_samples: 9031.0
+   all_check_train: 18063.0
+   test_positive_samples: 1003.0
+   test_negative_samples: 1004.0
+   all_check_test: 2007.0
+   K:6
+   X_train_size:(18063, 310)
+   X_test_size: (2007, 310)
+   all_check: 20070
+   train_positive_samples: 9032.0
+   train_negative_samples: 9031.0
+   all_check_train: 18063.0
+   test_positive_samples: 1003.0
+   test_negative_samples: 1004.0
+   all_check_test: 2007.0
+   K:7
+   X_train_size:(18063, 310)
+   X_test_size: (2007, 310)
+   all_check: 20070
+   train_positive_samples: 9032.0
+   train_negative_samples: 9031.0
+   all_check_train: 18063.0
+   test_positive_samples: 1003.0
+   test_negative_samples: 1004.0
+   all_check_test: 2007.0
+   K:8
+   X_train_size:(18063, 310)
+   X_test_size: (2007, 310)
+   all_check: 20070
+   train_positive_samples: 9032.0
+   train_negative_samples: 9031.0
+   all_check_train: 18063.0
+   test_positive_samples: 1003.0
+   test_negative_samples: 1004.0
+   all_check_test: 2007.0
+   K:9
+   X_train_size:(18063, 310)
+   X_test_size: (2007, 310)
+   all_check: 20070
+   train_positive_samples: 9032.0
+   train_negative_samples: 9031.0
+   all_check_train: 18063.0
+   test_positive_samples: 1003.0
+   test_negative_samples: 1004.0
+   all_check_test: 2007.0
+RF: PARAM: n_estimators:500, max_depth:None, min_samples_leaf: 1
+RF: Result: train_acc: 1.0, test_acc: 0.9379172894867963
+8
+   K:0
+   X_train_size:(18063, 310)
+   X_test_size: (2007, 310)
+   all_check: 20070
+   train_positive_samples: 9031.0
+   train_negative_samples: 9032.0
+   all_check_train: 18063.0
+   test_positive_samples: 1004.0
+   test_negative_samples: 1003.0
+   all_check_test: 2007.0
+   K:1
+   X_train_size:(18063, 310)
+   X_test_size: (2007, 310)
+   all_check: 20070
+   train_positive_samples: 9031.0
+   train_negative_samples: 9032.0
+   all_check_train: 18063.0
+   test_positive_samples: 1004.0
+   test_negative_samples: 1003.0
+   all_check_test: 2007.0
+   K:2
+   X_train_size:(18063, 310)
+   X_test_size: (2007, 310)
+   all_check: 20070
+   train_positive_samples: 9031.0
+   train_negative_samples: 9032.0
+   all_check_train: 18063.0
+   test_positive_samples: 1004.0
+   test_negative_samples: 1003.0
+   all_check_test: 2007.0
+   K:3
+   X_train_size:(18063, 310)
+   X_test_size: (2007, 310)
+   all_check: 20070
+   train_positive_samples: 9031.0
+   train_negative_samples: 9032.0
+   all_check_train: 18063.0
+   test_positive_samples: 1004.0
+   test_negative_samples: 1003.0
+   all_check_test: 2007.0
+   K:4
+   X_train_size:(18063, 310)
+   X_test_size: (2007, 310)
+   all_check: 20070
+   train_positive_samples: 9031.0
+   train_negative_samples: 9032.0
+   all_check_train: 18063.0
+   test_positive_samples: 1004.0
+   test_negative_samples: 1003.0
+   all_check_test: 2007.0
+   K:5
+   X_train_size:(18063, 310)
+   X_test_size: (2007, 310)
+   all_check: 20070
+   train_positive_samples: 9032.0
+   train_negative_samples: 9031.0
+   all_check_train: 18063.0
+   test_positive_samples: 1003.0
+   test_negative_samples: 1004.0
+   all_check_test: 2007.0
+   K:6
+   X_train_size:(18063, 310)
+   X_test_size: (2007, 310)
+   all_check: 20070
+   train_positive_samples: 9032.0
+   train_negative_samples: 9031.0
+   all_check_train: 18063.0
+   test_positive_samples: 1003.0
+   test_negative_samples: 1004.0
+   all_check_test: 2007.0
+   K:7
+   X_train_size:(18063, 310)
+   X_test_size: (2007, 310)
+   all_check: 20070
+   train_positive_samples: 9032.0
+   train_negative_samples: 9031.0
+   all_check_train: 18063.0
+   test_positive_samples: 1003.0
+   test_negative_samples: 1004.0
+   all_check_test: 2007.0
+   K:8
+   X_train_size:(18063, 310)
+   X_test_size: (2007, 310)
+   all_check: 20070
+   train_positive_samples: 9032.0
+   train_negative_samples: 9031.0
+   all_check_train: 18063.0
+   test_positive_samples: 1003.0
+   test_negative_samples: 1004.0
+   all_check_test: 2007.0
+   K:9
+   X_train_size:(18063, 310)
+   X_test_size: (2007, 310)
+   all_check: 20070
+   train_positive_samples: 9032.0
+   train_negative_samples: 9031.0
+   all_check_train: 18063.0
+   test_positive_samples: 1003.0
+   test_negative_samples: 1004.0
+   all_check_test: 2007.0
+RF: PARAM: n_estimators:500, max_depth:None, min_samples_leaf: 10
+RF: Result: train_acc: 0.9528871173116314, test_acc: 0.9229696063776782
+9
+   K:0
+   X_train_size:(18063, 310)
+   X_test_size: (2007, 310)
+   all_check: 20070
+   train_positive_samples: 9031.0
+   train_negative_samples: 9032.0
+   all_check_train: 18063.0
+   test_positive_samples: 1004.0
+   test_negative_samples: 1003.0
+   all_check_test: 2007.0
+   K:1
+   X_train_size:(18063, 310)
+   X_test_size: (2007, 310)
+   all_check: 20070
+   train_positive_samples: 9031.0
+   train_negative_samples: 9032.0
+   all_check_train: 18063.0
+   test_positive_samples: 1004.0
+   test_negative_samples: 1003.0
+   all_check_test: 2007.0
+   K:2
+   X_train_size:(18063, 310)
+   X_test_size: (2007, 310)
+   all_check: 20070
+   train_positive_samples: 9031.0
+   train_negative_samples: 9032.0
+   all_check_train: 18063.0
+   test_positive_samples: 1004.0
+   test_negative_samples: 1003.0
+   all_check_test: 2007.0
+   K:3
+   X_train_size:(18063, 310)
+   X_test_size: (2007, 310)
+   all_check: 20070
+   train_positive_samples: 9031.0
+   train_negative_samples: 9032.0
+   all_check_train: 18063.0
+   test_positive_samples: 1004.0
+   test_negative_samples: 1003.0
+   all_check_test: 2007.0
+   K:4
+   X_train_size:(18063, 310)
+   X_test_size: (2007, 310)
+   all_check: 20070
+   train_positive_samples: 9031.0
+   train_negative_samples: 9032.0
+   all_check_train: 18063.0
+   test_positive_samples: 1004.0
+   test_negative_samples: 1003.0
+   all_check_test: 2007.0
+   K:5
+   X_train_size:(18063, 310)
+   X_test_size: (2007, 310)
+   all_check: 20070
+   train_positive_samples: 9032.0
+   train_negative_samples: 9031.0
+   all_check_train: 18063.0
+   test_positive_samples: 1003.0
+   test_negative_samples: 1004.0
+   all_check_test: 2007.0
+   K:6
+   X_train_size:(18063, 310)
+   X_test_size: (2007, 310)
+   all_check: 20070
+   train_positive_samples: 9032.0
+   train_negative_samples: 9031.0
+   all_check_train: 18063.0
+   test_positive_samples: 1003.0
+   test_negative_samples: 1004.0
+   all_check_test: 2007.0
+   K:7
+   X_train_size:(18063, 310)
+   X_test_size: (2007, 310)
+   all_check: 20070
+   train_positive_samples: 9032.0
+   train_negative_samples: 9031.0
+   all_check_train: 18063.0
+   test_positive_samples: 1003.0
+   test_negative_samples: 1004.0
+   all_check_test: 2007.0
+   K:8
+   X_train_size:(18063, 310)
+   X_test_size: (2007, 310)
+   all_check: 20070
+   train_positive_samples: 9032.0
+   train_negative_samples: 9031.0
+   all_check_train: 18063.0
+   test_positive_samples: 1003.0
+   test_negative_samples: 1004.0
+   all_check_test: 2007.0
+   K:9
+   X_train_size:(18063, 310)
+   X_test_size: (2007, 310)
+   all_check: 20070
+   train_positive_samples: 9032.0
+   train_negative_samples: 9031.0
+   all_check_train: 18063.0
+   test_positive_samples: 1003.0
+   test_negative_samples: 1004.0
+   all_check_test: 2007.0
+RF: PARAM: n_estimators:500, max_depth:50, min_samples_leaf: 1
+RF: Result: train_acc: 1.0, test_acc: 0.9377678126557051
+10
+   K:0
+   X_train_size:(18063, 310)
+   X_test_size: (2007, 310)
+   all_check: 20070
+   train_positive_samples: 9031.0
+   train_negative_samples: 9032.0
+   all_check_train: 18063.0
+   test_positive_samples: 1004.0
+   test_negative_samples: 1003.0
+   all_check_test: 2007.0
+   K:1
+   X_train_size:(18063, 310)
+   X_test_size: (2007, 310)
+   all_check: 20070
+   train_positive_samples: 9031.0
+   train_negative_samples: 9032.0
+   all_check_train: 18063.0
+   test_positive_samples: 1004.0
+   test_negative_samples: 1003.0
+   all_check_test: 2007.0
+   K:2
+   X_train_size:(18063, 310)
+   X_test_size: (2007, 310)
+   all_check: 20070
+   train_positive_samples: 9031.0
+   train_negative_samples: 9032.0
+   all_check_train: 18063.0
+   test_positive_samples: 1004.0
+   test_negative_samples: 1003.0
+   all_check_test: 2007.0
+   K:3
+   X_train_size:(18063, 310)
+   X_test_size: (2007, 310)
+   all_check: 20070
+   train_positive_samples: 9031.0
+   train_negative_samples: 9032.0
+   all_check_train: 18063.0
+   test_positive_samples: 1004.0
+   test_negative_samples: 1003.0
+   all_check_test: 2007.0
+   K:4
+   X_train_size:(18063, 310)
+   X_test_size: (2007, 310)
+   all_check: 20070
+   train_positive_samples: 9031.0
+   train_negative_samples: 9032.0
+   all_check_train: 18063.0
+   test_positive_samples: 1004.0
+   test_negative_samples: 1003.0
+   all_check_test: 2007.0
+   K:5
+   X_train_size:(18063, 310)
+   X_test_size: (2007, 310)
+   all_check: 20070
+   train_positive_samples: 9032.0
+   train_negative_samples: 9031.0
+   all_check_train: 18063.0
+   test_positive_samples: 1003.0
+   test_negative_samples: 1004.0
+   all_check_test: 2007.0
+   K:6
+   X_train_size:(18063, 310)
+   X_test_size: (2007, 310)
+   all_check: 20070
+   train_positive_samples: 9032.0
+   train_negative_samples: 9031.0
+   all_check_train: 18063.0
+   test_positive_samples: 1003.0
+   test_negative_samples: 1004.0
+   all_check_test: 2007.0
+   K:7
+   X_train_size:(18063, 310)
+   X_test_size: (2007, 310)
+   all_check: 20070
+   train_positive_samples: 9032.0
+   train_negative_samples: 9031.0
+   all_check_train: 18063.0
+   test_positive_samples: 1003.0
+   test_negative_samples: 1004.0
+   all_check_test: 2007.0
+   K:8
+   X_train_size:(18063, 310)
+   X_test_size: (2007, 310)
+   all_check: 20070
+   train_positive_samples: 9032.0
+   train_negative_samples: 9031.0
+   all_check_train: 18063.0
+   test_positive_samples: 1003.0
+   test_negative_samples: 1004.0
+   all_check_test: 2007.0
+   K:9
+   X_train_size:(18063, 310)
+   X_test_size: (2007, 310)
+   all_check: 20070
+   train_positive_samples: 9032.0
+   train_negative_samples: 9031.0
+   all_check_train: 18063.0
+   test_positive_samples: 1003.0
+   test_negative_samples: 1004.0
+   all_check_test: 2007.0
+RF: PARAM: n_estimators:500, max_depth:50, min_samples_leaf: 10
+RF: Result: train_acc: 0.952986768532359, test_acc: 0.9234678624813153
+11
+   K:0
+   X_train_size:(18063, 310)
+   X_test_size: (2007, 310)
+   all_check: 20070
+   train_positive_samples: 9031.0
+   train_negative_samples: 9032.0
+   all_check_train: 18063.0
+   test_positive_samples: 1004.0
+   test_negative_samples: 1003.0
+   all_check_test: 2007.0
+   K:1
+   X_train_size:(18063, 310)
+   X_test_size: (2007, 310)
+   all_check: 20070
+   train_positive_samples: 9031.0
+   train_negative_samples: 9032.0
+   all_check_train: 18063.0
+   test_positive_samples: 1004.0
+   test_negative_samples: 1003.0
+   all_check_test: 2007.0
+   K:2
+   X_train_size:(18063, 310)
+   X_test_size: (2007, 310)
+   all_check: 20070
+   train_positive_samples: 9031.0
+   train_negative_samples: 9032.0
+   all_check_train: 18063.0
+   test_positive_samples: 1004.0
+   test_negative_samples: 1003.0
+   all_check_test: 2007.0
+   K:3
+   X_train_size:(18063, 310)
+   X_test_size: (2007, 310)
+   all_check: 20070
+   train_positive_samples: 9031.0
+   train_negative_samples: 9032.0
+   all_check_train: 18063.0
+   test_positive_samples: 1004.0
+   test_negative_samples: 1003.0
+   all_check_test: 2007.0
+   K:4
+   X_train_size:(18063, 310)
+   X_test_size: (2007, 310)
+   all_check: 20070
+   train_positive_samples: 9031.0
+   train_negative_samples: 9032.0
+   all_check_train: 18063.0
+   test_positive_samples: 1004.0
+   test_negative_samples: 1003.0
+   all_check_test: 2007.0
+   K:5
+   X_train_size:(18063, 310)
+   X_test_size: (2007, 310)
+   all_check: 20070
+   train_positive_samples: 9032.0
+   train_negative_samples: 9031.0
+   all_check_train: 18063.0
+   test_positive_samples: 1003.0
+   test_negative_samples: 1004.0
+   all_check_test: 2007.0
+   K:6
+   X_train_size:(18063, 310)
+   X_test_size: (2007, 310)
+   all_check: 20070
+   train_positive_samples: 9032.0
+   train_negative_samples: 9031.0
+   all_check_train: 18063.0
+   test_positive_samples: 1003.0
+   test_negative_samples: 1004.0
+   all_check_test: 2007.0
+   K:7
+   X_train_size:(18063, 310)
+   X_test_size: (2007, 310)
+   all_check: 20070
+   train_positive_samples: 9032.0
+   train_negative_samples: 9031.0
+   all_check_train: 18063.0
+   test_positive_samples: 1003.0
+   test_negative_samples: 1004.0
+   all_check_test: 2007.0
+   K:8
+   X_train_size:(18063, 310)
+   X_test_size: (2007, 310)
+   all_check: 20070
+   train_positive_samples: 9032.0
+   train_negative_samples: 9031.0
+   all_check_train: 18063.0
+   test_positive_samples: 1003.0
+   test_negative_samples: 1004.0
+   all_check_test: 2007.0
+   K:9
+   X_train_size:(18063, 310)
+   X_test_size: (2007, 310)
+   all_check: 20070
+   train_positive_samples: 9032.0
+   train_negative_samples: 9031.0
+   all_check_train: 18063.0
+   test_positive_samples: 1003.0
+   test_negative_samples: 1004.0
+   all_check_test: 2007.0
+RF: PARAM: n_estimators:500, max_depth:100, min_samples_leaf: 1
+RF: Result: train_acc: 1.0, test_acc: 0.9385650224215247
+12
+   K:0
+   X_train_size:(18063, 310)
+   X_test_size: (2007, 310)
+   all_check: 20070
+   train_positive_samples: 9031.0
+   train_negative_samples: 9032.0
+   all_check_train: 18063.0
+   test_positive_samples: 1004.0
+   test_negative_samples: 1003.0
+   all_check_test: 2007.0
+   K:1
+   X_train_size:(18063, 310)
+   X_test_size: (2007, 310)
+   all_check: 20070
+   train_positive_samples: 9031.0
+   train_negative_samples: 9032.0
+   all_check_train: 18063.0
+   test_positive_samples: 1004.0
+   test_negative_samples: 1003.0
+   all_check_test: 2007.0
+   K:2
+   X_train_size:(18063, 310)
+   X_test_size: (2007, 310)
+   all_check: 20070
+   train_positive_samples: 9031.0
+   train_negative_samples: 9032.0
+   all_check_train: 18063.0
+   test_positive_samples: 1004.0
+   test_negative_samples: 1003.0
+   all_check_test: 2007.0
+   K:3
+   X_train_size:(18063, 310)
+   X_test_size: (2007, 310)
+   all_check: 20070
+   train_positive_samples: 9031.0
+   train_negative_samples: 9032.0
+   all_check_train: 18063.0
+   test_positive_samples: 1004.0
+   test_negative_samples: 1003.0
+   all_check_test: 2007.0
+   K:4
+   X_train_size:(18063, 310)
+   X_test_size: (2007, 310)
+   all_check: 20070
+   train_positive_samples: 9031.0
+   train_negative_samples: 9032.0
+   all_check_train: 18063.0
+   test_positive_samples: 1004.0
+   test_negative_samples: 1003.0
+   all_check_test: 2007.0
+   K:5
+   X_train_size:(18063, 310)
+   X_test_size: (2007, 310)
+   all_check: 20070
+   train_positive_samples: 9032.0
+   train_negative_samples: 9031.0
+   all_check_train: 18063.0
+   test_positive_samples: 1003.0
+   test_negative_samples: 1004.0
+   all_check_test: 2007.0
+   K:6
+   X_train_size:(18063, 310)
+   X_test_size: (2007, 310)
+   all_check: 20070
+   train_positive_samples: 9032.0
+   train_negative_samples: 9031.0
+   all_check_train: 18063.0
+   test_positive_samples: 1003.0
+   test_negative_samples: 1004.0
+   all_check_test: 2007.0
+   K:7
+   X_train_size:(18063, 310)
+   X_test_size: (2007, 310)
+   all_check: 20070
+   train_positive_samples: 9032.0
+   train_negative_samples: 9031.0
+   all_check_train: 18063.0
+   test_positive_samples: 1003.0
+   test_negative_samples: 1004.0
+   all_check_test: 2007.0
+   K:8
+   X_train_size:(18063, 310)
+   X_test_size: (2007, 310)
+   all_check: 20070
+   train_positive_samples: 9032.0
+   train_negative_samples: 9031.0
+   all_check_train: 18063.0
+   test_positive_samples: 1003.0
+   test_negative_samples: 1004.0
+   all_check_test: 2007.0
+   K:9
+   X_train_size:(18063, 310)
+   X_test_size: (2007, 310)
+   all_check: 20070
+   train_positive_samples: 9032.0
+   train_negative_samples: 9031.0
+   all_check_train: 18063.0
+   test_positive_samples: 1003.0
+   test_negative_samples: 1004.0
+   all_check_test: 2007.0
+RF: PARAM: n_estimators:500, max_depth:100, min_samples_leaf: 10
+RF: Result: train_acc: 0.9526712063333888, test_acc: 0.9234180368709517
+########### BEST RESULT #############
+iteration 11
+n_estimators 500
+max_depth 100
+min_samples_leaf 1
+train_acc 1.0
+test_acc 0.9385650224215247
+time 0.35175747162765925

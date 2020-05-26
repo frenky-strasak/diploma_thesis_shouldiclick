@@ -1,0 +1,23 @@
+xgboostX_train_size:(20070, 229)
+xgboostX_test_size: (5018, 229)
+xgboostall_check: 25088
+xgboosttrain_positive_samples: 10035.0
+xgboosttrain_negative_samples: 10035.0
+xgboostall_check_train: 20070.0
+xgboosttest_positive_samples: 2509.0
+xgboosttest_negative_samples: 2509.0
+xgboostall_check_test: 5018.0
+xgboosttrain_acc: 0.9998505231689088
+xgboosttest_acc: 0.9519728975687525
+xgboostTN:2373
+xgboostFP:136
+xgboostFN:105
+xgboostTP:2404
+_test_acc: 0.9519728975687525
+False Positive Rate FPR: 0.054204862495017936
+False Discovery Rate FDR: 0.05354330708661417
+False Negative Rate FNR: 0.04184934236747708
+Sensitivity TPR: 0.9581506576325229
+Specificity SPC: 0.9457951375049821
+Precision PPV: 0.9464566929133859
+Negative Predictive Value NPV: 0.9576271186440678
